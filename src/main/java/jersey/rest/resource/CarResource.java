@@ -21,6 +21,10 @@ import jersey.rest.model.ErrorMessage;
 @Path("cars")
 public class CarResource {
 
+	
+	
+	
+	
 	private static Map<Integer, Car> cars;
 
 	public CarResource() {
